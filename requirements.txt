@@ -6,5 +6,4 @@ flask_cors
 spacy
 textblob
 flask_socketio
-json
 logging
