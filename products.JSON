@@ -1,0 +1,38 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "ketchup box",
+        "expiry_date": "2025-12-01",
+        "keywords": ["ketchupbox", "tomato sauce", "ketchup sauce"]
+    },
+    {
+        "product_id": "P002",
+        "product_name": "water box",
+        "expiry_date": "2026-01-15",
+        "keywords": ["bottled water", "drinking water", "waterbox", "hydration"]
+    },
+    {
+        "product_id": "P003",
+        "product_name": "mustard package",
+        "expiry_date": "2025-11-10",
+        "keywords": ["mustard", "condiment", "mustardpack", "yellow sauce"]
+    },
+    {
+        "product_id": "P004",
+        "product_name": "mayonnaise jars",
+        "expiry_date": "2026-02-28",
+        "keywords": ["mayonnaise", "mayo", "spread", "sandwich dressing"]
+    },
+    {
+        "product_id": "P005",
+        "product_name": "olive oil",
+        "expiry_date": "2026-03-20",
+        "keywords": ["olive oil", "cooking oil", "extra virgin", "healthy fat"]
+    },
+    {
+        "product_id": "P006",
+        "product_name": "soy sauce",
+        "expiry_date": "2025-09-05",
+        "keywords": ["soy sauce", "asian sauce", "salty seasoning", "umami"]
+    }
+]

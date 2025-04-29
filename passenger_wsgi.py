@@ -1,0 +1,12 @@
+import sys
+import os
+sys.path.insert(0, os.path.dirname(__file__))
+
+from app import socketio, app
+
+# WSGI entry point for Passenger
+application = app
+
+# If run manually (e.g., during debugging), start socketio server
+if __name__ == "__main__":
+    socketio.run(app, host="0.0.0.0", port=5000)

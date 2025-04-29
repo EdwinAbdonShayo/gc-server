@@ -1,0 +1,11 @@
+Flask
+spacy
+textblob
+Flask-SocketIO
+flask_cors
+sqlite
+spacy
+textblob
+flask_socketio
+json
+logging
